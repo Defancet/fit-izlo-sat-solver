@@ -1,5 +1,10 @@
 # IZLO – Project 1: SAT solver
 
+## Author
+
+- **Name:** Maksim Kalutski
+- **Login:** xkalut00
+
 ## Introduction
 
 This project involves creating a SAT solver application to help your uncle Pat efficiently plan his postal routes so he
